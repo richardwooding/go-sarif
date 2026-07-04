@@ -2,6 +2,8 @@
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/richardwooding/go-sarif.svg)](https://pkg.go.dev/github.com/richardwooding/go-sarif)
 
+**Website:** [richardwooding.github.io/go-sarif](https://richardwooding.github.io/go-sarif/)
+
 A **minimal, zero-dependency** SARIF 2.1.0 emitter for Go static-analysis tools
 — map findings to results, name your tool, write the document that GitHub Code
 Scanning / GitLab and other CI systems ingest.
